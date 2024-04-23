@@ -20,7 +20,8 @@ Frontend:
 Pantalla principal que muestra la lista de tareas con la posibilidad de agregar nuevas tareas.
 Cada tarea debe tener una opción para marcarla como completada.
 Cada tarea debe tener una opción para eliminarla.
-Puntos Extras:
+
+# Puntos Extras:
 
 Añadir validaciones básicas en el frontend y el backend.
 Implementar un diseño simple y agradable con CSS.
