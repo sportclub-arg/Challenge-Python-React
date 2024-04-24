@@ -16,10 +16,10 @@ Requerimientos Técnicos:
    
 La base de datos es preparada por SportClub
 
-DB_NAME= Challenge_tecnologia
-DB_USER= postgres
-DB_PASSWORD= 0G0qs1D0i#8bc5QAzK!
-DB_URL= spclub-db.czgf5d2mu7xm.us-east-1.rds.amazonaws.com
+1. DB_NAME= Challenge_tecnología
+2. DB_USER= postgres
+3. DB_PASSWORD= 0G0qs1D0i#8bc5QAzK!
+4. DB_URL= spclub-db.czgf5d2mu7xm.us-east-1.rds.amazonaws.com
 
 
 #Frontend:
